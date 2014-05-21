@@ -1,0 +1,6 @@
+Awkbot
+======
+
+This is (hopefully) going to be an IRC bot written in bash and awk, running on top of ii (http://tools.suckless.org/ii/). I'm envisioning some basic text manipulation commands, primarily.
+
+
